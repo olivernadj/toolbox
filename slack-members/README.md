@@ -4,7 +4,7 @@ Retrieves all members from a slack channel and returns it in CSV format.
 ## Context
 I wanted to segment mailing list based on Slack Channel members. I did not find a simple solution to fetch members list from a Slack Channel or a Group. So I wrote a small script called `membersof.rb` what extract a csv formatted list.
 
-## Requironemnts
+## Requirements
 ### Ruby with Standard Library
 You can use several tools to install Ruby. Check it out at https://www.ruby-lang.org/en/documentation/installation/
 
