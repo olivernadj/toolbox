@@ -1,3 +1,5 @@
+# legacy code using fabric v1 on python v2.7
+
 from fabric.api import *
 import json
 
