@@ -1,0 +1,76 @@
+[Skipp] Team infra_systems_team_tier2 with 4 member(s)
+[Skipp] Team lel_911 with 1 member(s)
+[Skipp] Team lel_team_platform_service with 3 member(s)
+[Error] Deleted empty team v_Search_frontend
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_searchpage_schedule,assign_mobile_search_api_schedule,assign_filter_api_schedule]
+[Skipp] Team infra_tpm_team with 3 member(s)
+[Error] Deleted empty team v_PDP
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_mobile_home_pdp_api_schedule,assign_ask_api_schedule,assign_seller_review_api_schedule]
+[ OK  ] Deleted empty team digital_goods_local_th_team
+[ OK  ] Deleted empty team digital_goods_local_sg_team
+[Skipp] Team data-eng-alert with 1 member(s)
+[ OK  ] Deleted empty team digital_goods_local_id_team
+[Skipp] Team h_Secops with 4 member(s)
+[Error] Deleted empty team z_infra_auto_alerting
+	Exception Team cannot be modified. Please remove it from integrations: [IN - 911 - Zabbix : action[Staging Alerts],IN - 911 - Zabbix : action[P2 Alerting],IN - 911 - Zabbix : action[Hardware monitoring],IN - 911 - Zabbix : action[c360liveautostatsapp1.aws],IN - 911 - Zabbix : action[Memory],IN - 911 - Zabbix : action[Staging Env Alerts]]
+[Error] Deleted empty team v_Search_product_import
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_boosting_api_schedule,assign_product_import_schedule]
+[Skipp] Team Infra SE with 8 member(s)
+[Error] Deleted empty team v_ShippingFee
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_shippingfee_api_schedule,assign_customer_location_api_schedule]
+[ OK  ] Deleted empty team digital_goods_local_ph_team
+[Skipp] Team infra_network_team with 1 member(s)
+[ OK  ] Deleted empty team digital_goods_local_my_team
+[Skipp] Team infra_db_nightshift with 4 member(s)
+[Error] Deleted empty team v_SpecialProjects_BOBportal_LZDcom
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_mobile_digitalproduct_api_schedule]
+[Error] Deleted empty team h_ProductService_ImageStorage_Notificator_Scapi
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_notificator_schedule,assign_product_service_schedule,assign_sellercenter_api_schedule,assign_catalog_api_schedule,assign_image_storage_api_schedule,assign_seller_api_schedule]
+[Skipp] Team Infra with 18 member(s)
+[Error] Deleted empty team v_OM_Returns_Procurement
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_oms_schedule]
+[Skipp] Team lel_team_d with 4 member(s)
+[Error] Deleted empty team h_Goblin
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_goblin_schedule,assign_attributes_api_schedule]
+[Error] Deleted empty team h_GeoAPI_StockAPI_PHPConsumer
+	Exception Team cannot be modified. Please remove it from integrations: [IN - PL - Platform dashboard : action[Create Alert]]
+[Skipp] Team 911_team with 1 member(s)
+[Skipp] Team infra_db_team with 5 member(s)
+[Skipp] Team cross_border with 5 member(s)
+[Skipp] Team lel_team_f with 3 member(s)
+[Skipp] Team Corporate IT Network with 1 member(s)
+[ OK  ] Deleted empty team digital_goods_local_vn_team
+[ OK  ] Deleted empty team v_Checkout
+[Skipp] Team lel_team_b with 4 member(s)
+[Skipp] Team infra_sap with 1 member(s)
+[Skipp] Team h_Release with 1 member(s)
+[Skipp] Team lel_team_devops with 2 member(s)
+[Skipp] Team infra_systems_alisc with 3 member(s)
+[Error] Deleted empty team h_CustomerAPI_ConfigAPI
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_customer_api_schedule,assign_config_api_schedule,assign_email_api_schedule]
+[Skipp] Team lel_team_c with 5 member(s)
+[Skipp] Team infra_systems_team_tier1 with 8 member(s)
+[Error] Deleted empty team v_MarketingTech
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_seopage_schedule]
+[Skipp] Team lel_lms with 3 member(s)
+[Error] Deleted empty team v_Commercial
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_homepage_schedule,assign_wishlist_api_schedule,assign_mobile_commercial_api_schedule,assign_pagemanager_api_schedule,assign_seller_transparency_api_schedule,assign_shop_decoration_api_schedule,assign_layout_api_schedule,assign_campaign_api_schedule,assign_mobile_checkout_api_schedule]
+[Error] Deleted empty team v_CustomerService_MyAccount
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_response_api_schedule,assign_mobile_customer_api_schedule]
+[Error] Deleted empty team 911_leader_team
+	Exception Team cannot be modified. Please remove it from integrations: [IN - 911 Leadership - P0 Notification : action[Create Alert]]
+[Skipp] Team lel_pickmee with 2 member(s)
+[Skipp] Team h_bi_oracle with 1 member(s)
+[Error] Deleted empty team v_SellerOnboarding_PromoTools
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_bundle_api_schedule,assign_xclient_promo_tools_api_schedule,assign_promo_tools_api_schedule]
+[Skipp] Team LEL Corporate IT Network with 2 member(s)
+[Error] Deleted empty team v_Search_backend
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_content_api_schedule,assign_suggest_api_schedule,assign_search_api_schedule]
+[Error] Deleted empty team v_advertising
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_advertising_api_schedule]
+[Error] Deleted empty team h_data_science_data_engineering
+	Exception Team cannot be modified. Please remove it from integrations: [IN - DataScience - Prometheus Alert]
+[Skipp] Team infra_lel_db_support with 4 member(s)
+[Skipp] Team lel_team_a with 4 member(s)
+[Error] Deleted empty team h_OrderAPI
+	Exception Schedule cannot be modified. Please remove it from alert policies: [assign_order_api_schedule]
